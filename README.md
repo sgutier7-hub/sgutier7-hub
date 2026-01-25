@@ -26,8 +26,7 @@ My academic and professional interests involve the intersection of law, ethics, 
 - Literature review and synthesis
 
 ## Data Science Portfolio  
-👉 **[Data Science Portfolio Repository](https://github.com/your-username/data-science-portfolio)**  
-*(Replace with your actual link)*
+👉 **[Data Science Portfolio Repository][(https://github.com/your-username/data-science-portfolio)](https://github.com/sgutier7-hub/Gutierrez-Data-Science-Portfolio)**  
 
 ## Interests
 - International cooking, violin, hiking, and long distance running. 
