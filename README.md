@@ -14,7 +14,7 @@ My academic and professional interests involve the intersection of law, ethics, 
 - Data cleaning, preprocessing, and exploratory analysis
 
 **Data Science & Visualization**
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis 
 - Data visualization and insight communication
 
 **Generative AI & LLMs**
@@ -26,7 +26,7 @@ My academic and professional interests involve the intersection of law, ethics, 
 
 **Research & Methods**
 - Quantitative and qualitative research
-- Policy and social data analysis
+- Policy data analysis
 - Literature review and synthesis
 
 ## 📁 Data Science Portfolio  
