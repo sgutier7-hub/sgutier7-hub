@@ -5,7 +5,7 @@
 I'm a student at the University of Notre Dame studying Global Affairs and Data Science on a Pre-Law Track. 
 My academic and professional interests involve the intersection of law, ethics, data analysis, and generative AI.
 
-👉 **[Data Science Portfolio]([https://github.com/your-username/data-science-portfolio](https://github.com/sgutier7-hub/Gutierrez-Data-Science-Portfolio))**
+👉 **[Data Science Portfolio](https://github.com/sgutier7-hub/Gutierrez-Data-Science-Portfolio)**
 
 ## 💻 Technical Skills
 
