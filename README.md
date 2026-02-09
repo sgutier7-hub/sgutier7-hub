@@ -13,21 +13,20 @@ My academic and professional interests involve the intersection of law, ethics, 
 - Python, Excel  
 - Data cleaning, preprocessing, and exploratory analysis
 
-**Data Science & Visualization**
-- Exploratory Data Analysis 
-- Data visualization and insight communication
+**Visualization & Communication**
+- Data visualization and insight storytelling
 
 **Generative AI & LLMs**
 - Prompt engineering & system prompting  
-- LLM evaluation and comparison  
 - Chain-of-thought analysis  
 - **ChainForge** (prompt testing, model benchmarking)  
 - Responsible & ethical AI design
 
-**Research & Methods**
-- Quantitative and qualitative research
-- Policy data analysis
-- Literature review and synthesis
+## 📊 Current Project
+- Penguins Insights Dashboard
+
+## 📚 Goal for the Semester
+- Complete end-to-end technical projects from raw data → analysis → insights
 
 ## 🌱 Interests
 - International cooking, violin, hiking, and long distance running. 
