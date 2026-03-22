@@ -24,6 +24,7 @@ My academic and professional interests involve the intersection of law, ethics, 
 
 ## 📊 Current Project
 - Penguins Insights Dashboard
+- Federal RD Spending & GDP Analysis
 
 ## 📚 Goal for the Semester
 - Complete end-to-end technical projects from raw data → analysis → insights
