@@ -9,9 +9,17 @@ My academic and professional interests involve the intersection of law, ethics, 
 
 ## 💻 Technical Skills
 
-**Programming & Analysis**
-- Python, Excel  
-- Data cleaning, preprocessing, and exploratory analysis
+**Programming**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-0A507B?style=for-the-badge&logo=stata&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%23444e91.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 
 **Visualization & Communication**
 - Data visualization and insight storytelling
@@ -22,7 +30,7 @@ My academic and professional interests involve the intersection of law, ethics, 
 - **ChainForge** (prompt testing, model benchmarking)  
 - Responsible & ethical AI design
 
-## 📊 Current Project
+## 📊 Current Projects
 - Penguins Insights Dashboard
 - Federal RD Spending & GDP Analysis
 - Data Insight with Interactive Machine Learning Models
