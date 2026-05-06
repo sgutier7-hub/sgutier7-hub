@@ -31,9 +31,10 @@ My academic and professional interests involve the intersection of law, ethics, 
 - Responsible & ethical AI design
 
 ## 📊 Current Projects
-- Penguins Insights Dashboard
-- Federal RD Spending & GDP Analysis
-- Data Insight with Interactive Machine Learning Models
+- [Penguins Insights Dashboard 🐧](./basic_streamlit_app/README.md)
+- [Federal RD Spending & GDP Analysis 💵](./Tidy_Data_Project/README.md) 
+- [Interactive ML Model Explorer 💡](./MLStreamlitApp/README.md)  
+- [Uncovering the Unseen: Unsupervised Learning in Practice 🔎](./MLUnsupervisedApp./README.md) 
 
 ## 📚 Goal for the Semester
 - Complete end-to-end technical projects from raw data → analysis → insights
