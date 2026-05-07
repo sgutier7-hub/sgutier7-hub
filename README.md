@@ -31,10 +31,10 @@ My academic and professional interests involve the intersection of law, ethics, 
 - Responsible & ethical AI design
 
 ## 📊 Current Projects
-- [Penguins Insights Dashboard 🐧](EDA/basic_streamlit_app/README.md)
-- [Federal RD Spending & GDP Analysis 💵](Visualizations/Tidy_Data_Project/README.md)
-- [Interactive ML Model Explorer 💡](Models/MLStreamlitApp/README.md)
-- [Uncovering the Unseen: Unsupervised Learning in Practice 🔎](Models/MLUnsupervisedApp./README.md)
+- [Penguins Insights Dashboard 🐧](Gutierrez-Data-Science-Portfolio/EDA/basic_streamlit_app/README.md) 
+- [Federal RD Spending & GDP Analysis 💵](Gutierrez-Data-Science-Portfolio/Visualizations/Tidy_Data_Project/README.md)
+- [Interactive ML Model Explorer 💡](Gutierrez-Data-Science-Portfolio/Models/MLStreamlitApp/README.md)
+- [Uncovering the Unseen: Unsupervised Learning in Practice 🔎](Gutierrez-Data-Science-Portfolio/Models/MLUnsupervisedApp./README.md)
 
 ## 📚 Goal for the Semester
 - Complete end-to-end technical projects from raw data → analysis → insights
